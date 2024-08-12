@@ -77,7 +77,7 @@ mvn exec:java</code></pre>
 <ul>
     <li><strong>Create</strong>: <code>public Integer cadastrarCliente(Cliente cliente);</code></li>
     <li><strong>Read</strong>: <code>public Cliente consultarCliente(String codigo);</code></li>
-    <li><strong>Update</strong>: public Integer atualizarCliente(Cliente cliente);</code></li>
+    <li><strong>Update</strong>: <code>public Integer atualizarCliente(Cliente cliente);</code></li>
     <li><strong>Delete</strong>: <code>public Integer excluir(Cliente cliente);</code></li>
      <li><strong>FindAll</strong>: <code>public List<Cliente> buscarTodos();</code></li>
 </ul>
